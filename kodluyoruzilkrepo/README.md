@@ -7,7 +7,7 @@ Bu repo [kodluyoruz](https://www.kodluyoruz.org/) ve [patika](www.patika.dev) Fr
 
 Öncelikle Projeyi klonlayın.
 ```
-git clone https://github.com/mustafadurmusacikgoz/kodluyoruzilkrepo.git
+git clone https://github.com/mustafadurmusacikgoz/Patika-Odevler.git
 ```
 
 ## Usage
